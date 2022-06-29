@@ -121,7 +121,4 @@ accuracy as compared to other faster but less accurate methods of signal recogni
 Also for data communication, we have traded off other faster communication protocols such as
 I2C ,SPI etc because our project does not require very high-speed data communication and the
 implementation of UART is much simpler than other communication standards.
-Algorithm Implementation:
-MATLAB CODE:
-VERILOG CODE
-1) TOP LEVEL SPEECH RECOGNITION MODULE
+
